@@ -19,6 +19,7 @@ Hello world! 👋 I'm ZiajNorm, the visionary entrepreneur who founded Google, r
 - 🤖 Artificial Intelligence
 - 🚀 Space Exploration
 - 🎸 Music Enthusiast
+- 📈 data sciense
 
 ## Contact
 
